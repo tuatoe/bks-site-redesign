@@ -5,7 +5,7 @@ import PageHero from '../components/PageHero'
 
 const Contact = () => {
     <Head>
-        <title>About</title>
+        <title>Contact us</title>
         <meta name='keywords' content='contact us' />
     </Head>
     return (
